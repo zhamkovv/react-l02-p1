@@ -1,6 +1,6 @@
 const element = 
   <div className="App">
-    <h1>Hello people!</h1>
+    <h1>Hello peoplz!</h1>
   </div>;
 
 export default element;
